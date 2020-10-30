@@ -1,11 +1,11 @@
-#+++++++++++++++++++++++++++++++PYTHON MINECRAFT++++++++++++++++++++++++++++++++
+#+++++++++++++++++++++++++++++++PYTHON MINECRAFT+++++++++++++++++++++++++++++++#
 #Connect Minecraft with Python.
 from mcpi import block
 from mcpi.minecraft import Minecraft
 #Inportar librerias
 import time
 import math
-#-------------------------------------CODE--------------------------------------
+#-------------------------------------CODE--------------------------------------#
 mc = Minecraft.create()
 #Crear un bucle
 while True:
